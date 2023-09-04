@@ -1,6 +1,6 @@
 # Springfieldscraper
 
-Movie and tv script scaper for the movie script website [springfieldspringfield](springfieldspringfield.co.uk).
+Movie and tv script scaper for the movie script website [springfieldspringfield](https://www.springfieldspringfield.co.uk/).
 
 ## Usage:
 
